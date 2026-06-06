@@ -61,3 +61,8 @@ python prueba_entorno.py
 
 - Asegúrate de no subir el archivo `.env` a repositorios públicos.
 - Si usas Windows PowerShell y tienes políticas de ejecución restrictivas, ejecuta `Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass` antes de activar el entorno virtual.
+
+
+## Evidencias
+Ejecución del script
+![Salida consola](/imagenes/img1.png)
